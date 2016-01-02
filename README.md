@@ -54,7 +54,7 @@ When gauging the optimal number of trees, 750 seemed to offer a good tradeoff be
 
 ### Results
 
-When running this model on the testing set data, **98.87% accuracy** was reported.
+When running this model on the testing set data, **98.87% accuracy** was reported. This means, there's a out of sample error rate of **1.13%**.
 
 The full output of the confusion matrix:
 
